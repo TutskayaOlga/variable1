@@ -51,6 +51,5 @@ public class Main {
         var number1Staff = numberStaff + 94;
         var hours1Staff = 640 / number1Staff;
         System.out.println("Если в компании работает " + number1Staff + " человека, то всего " + hours1Staff + " часа работы может быть поделено между сотрудниками");
-
     }
 }
